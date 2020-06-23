@@ -71,7 +71,7 @@
                                 <rect key="frame" x="283" y="145" width="111" height="34"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits"/>
+                                <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
                                 <connections>
                                     <action selector="onEdit:" destination="BYZ-38-t0r" eventType="editingChanged" id="tLq-hn-a6Y"/>
                                     <action selector="onEditingBegin:" destination="BYZ-38-t0r" eventType="editingDidBegin" id="Hea-vV-a6r"/>
