@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Initially had issues with my installation of X-Code, but issue was fixed by installing through app store instead of software manager.
 
 ## Credits
 
